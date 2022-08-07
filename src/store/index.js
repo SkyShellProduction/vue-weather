@@ -1,6 +1,6 @@
 import { createStore } from 'vuex'
 import imgs from './images';
-const APIKEY = '344dd127883825844588edb5e0addee3';
+const APIKEY = 'YOUR API KEY';
 const host = 'https://api.openweathermap.org';
 const lat = 41.30108557176432;
 const lon = 69.26905977506551;
